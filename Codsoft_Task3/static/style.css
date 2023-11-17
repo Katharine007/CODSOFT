@@ -1,0 +1,54 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #E2C2B3; 
+}
+
+.container {
+    text-align: center;
+    color: #e1d8d8; 
+    font-size: 30px;
+    background: #687477;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+form {
+    margin-top: 20px;
+}
+
+label {
+    margin-right: 10px;
+}
+
+input {
+    padding: 8px;
+    width: 50px;
+    text-align: center;
+}
+
+button {
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 6px;
+    color: whitesmoke;
+    background: #29C16E;
+    border-color: #29C16E;
+}
+button:hover{
+    background-color:#23AB61;
+}
+
+.password-result {
+    margin-top: 20px;
+}
+
+h1, h2 {
+    color: #f5e3e3;
+}
