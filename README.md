@@ -7,7 +7,7 @@ The firm offered internship program that helped me learn new stratergies and hon
 Any three projects/tasks out of four proposed were expected to be finished and I have completed the below three tasks:
 
 Task#2: A basic calculator program    
-Task#3: Project name: "PassWorld", a Password generator using python, flask, html and css 
+Task#3: Project name: "PassWorld", a Password generator using python, flask, html and css     
 Task#4: Project name: "Nostalgia", the game "rock,paper,scissor" built with a good GUI using Tkinter
 
 
