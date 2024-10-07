@@ -2,7 +2,7 @@
 
 Codsoft, an IT services and consultancy that specializes in creating innovative solutions for businesses. Is passionate about technology and believes in the power of software to transform the world. 
 
-The firm offers internship program helping students venture various technologies and improvise themselves. Their projects helped me explore technologies, projects and various concepts.
+The firm offered internship program that helped me learn new stratergies and hone my existing skillset. Their projects were simple yet effective to explore various concepts.
 
 
 
